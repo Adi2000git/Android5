@@ -1,0 +1,16 @@
+
+m
+java:S1301\"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8©áÌ¹É0
+x
+java:S1450&"]Remove the "buttonLocation" field and declare it as a local variable in the relevant methods.(ÌÂÉœûÿÿÿÿ
+|
+java:S1450+"_Remove the "getAddressButton" field and declare it as a local variable in the relevant methods.(û¯ÀÕ8ðÙ¿¹É0
+p
+java:S1450%"[Remove the "textLocation" field and declare it as a local variable in the relevant methods.(ÞÌ›.
+G
+java:S16027",Remove useless curly braces around statement(ë™™ñøÿÿÿÿ
+l
+java:S1874Z"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶þÿÿÿÿ8ÙáÌ¹É0
+C	java:S131\""Add a default case to this switch.(×ö³–úÿÿÿÿ8ÚáÌ¹É0
+E
+java:S1068%"0Remove this unused "textLocation" private field.(ÞÌ›.
